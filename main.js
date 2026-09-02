@@ -8,3 +8,4 @@ export default function Test3() {
     </>
   );
 }
+const account_b = "B account";
